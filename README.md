@@ -1,7 +1,7 @@
 Hello, it's nice to meet you 👋
 ================================
 
-I study Software Egineering at LUT University and are getting close to graduating with a bachelor's degree.</br>
+I'm software engineering student at LUT University and getting close to graduating with a bachelor's degree.</br>
 I adore Linux and FOSS.
 
 ##  Technologies I have dabbled with 
